@@ -1,6 +1,6 @@
 # AZTEC
 ## ⚙️ Prerequisites
-- You can use [Alchemy](https://dashboard.alchemy.com/apps) or [Infura](https://developer.metamask.io/register) to get Sepolia Ethereum RPC.
+- You can use as [Alchemy](https://dashboard.alchemy.com/apps) or [Infura](https://developer.metamask.io/register) to get Sepolia Ethereum RPC.
 - You can use [Chainstack](https://chainstack.com/global-nodes) to get the Consensus URL (Beacon RPC URL).
 - Create a new evm wallet and fund it with at least 2.5 Sepolia ETH if you want to register as Validator.
 
